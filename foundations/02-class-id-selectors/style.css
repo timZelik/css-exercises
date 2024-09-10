@@ -1,0 +1,18 @@
+.odd-numbered-elements, .cooler-odd-numbered-element {
+    background-color: rgb(220, 77, 77);
+}
+
+.cooler-odd-numbered-element {
+    font-size: 20px;
+}
+
+#one-ID {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#another-ID {   
+    background-color: rgb(128, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
