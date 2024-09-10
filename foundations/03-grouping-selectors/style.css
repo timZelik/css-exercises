@@ -1,0 +1,13 @@
+.BlackClickMe .YellowNoClickMe {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.BlackClickMe {
+    background-color: black;
+    color: white;
+}
+.YellowNoClickMe {
+    background-color: yellow;
+    color: black;
+}
